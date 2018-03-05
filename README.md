@@ -22,7 +22,7 @@ pip install -r requirements.txt  # Install dependencies
 deactivate                       # Exit the virtual environment
 ```
 
-**Download data:** Run the following from the `assignment1` directory to download the CIFAR-10 dataset:
+**Download data:** Run the following from the `assignment1` directory to download the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html):
 ```bash
 cd deeplearning/datasets
 ./get_datasets.sh
