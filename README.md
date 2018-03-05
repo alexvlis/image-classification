@@ -10,16 +10,8 @@
 
 
 ## Setup
-Make sure your machine is set up with the assignment dependencies. 
 
 **Install virtual environment:**
-If you do not want to use Anaconda and want to go with a more manual and risky
-installation route you will likely want to create a
-[virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
-for the project. If you choose not to use a virtual environment, it is up to you
-to make sure that all dependencies for the code are installed globally on your
-machine. To set up a virtual environment, run the following:
-
 ```bash
 cd assignment1
 sudo pip install virtualenv      # This may already be installed
@@ -30,10 +22,7 @@ pip install -r requirements.txt  # Install dependencies
 deactivate                       # Exit the virtual environment
 ```
 
-**Download data:**
-Once you have the starter code, you will need to download the CIFAR-10 dataset.
-Run the following from the `assignment1` directory:
-
+**Download data:** Run the following from the `assignment1` directory to download the CIFAR-10 dataset:
 ```bash
 cd deeplearning/datasets
 ./get_datasets.sh
