@@ -1,4 +1,4 @@
-# Implementationn and investigation of Fully Connected and Convolutional neural networks on the CIFAR-10 dataset. #
+# Implementation and investigation of Fully Connected and Convolutional neural networks on the CIFAR-10 dataset. #
 * [Fully Connected Neural Network](https://github.com/alexvlis/cnn-cifar10/blob/master/FullyConnectedNets.ipynb)
 	* Stochastic Gradient Descent
 	* SGD with Momentum
