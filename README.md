@@ -1,4 +1,6 @@
-# Implementation and investigation of Fully Connected and Convolutional neural networks on the CIFAR-10 dataset. #
+# cnn-cifar10 #
+Implementation and investigation of Fully Connected and Convolutional neural networks on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
+
 * [Fully Connected Neural Network](https://github.com/alexvlis/cnn-cifar10/blob/master/FullyConnectedNets.ipynb)
 	* Stochastic Gradient Descent
 	* SGD with Momentum
@@ -21,7 +23,7 @@ pip install -r requirements.txt  # Install dependencies
 deactivate                       # Exit the virtual environment
 ```
 
-**Download data:** Run the following to download the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html):
+**Download data:** Run the following to download the CIFAR-10 dataset:
 ```bash
 cd deeplearning/datasets
 ./get_datasets.sh
