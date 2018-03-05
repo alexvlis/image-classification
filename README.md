@@ -13,7 +13,6 @@
 
 **Install virtual environment:**
 ```bash
-cd assignment1
 sudo pip install virtualenv      # This may already be installed
 virtualenv .env                  # Create a virtual environment
 source .env/bin/activate         # Activate the virtual environment
@@ -22,7 +21,7 @@ pip install -r requirements.txt  # Install dependencies
 deactivate                       # Exit the virtual environment
 ```
 
-**Download data:** Run the following from the `assignment1` directory to download the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html):
+**Download data:** Run the following to download the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html):
 ```bash
 cd deeplearning/datasets
 ./get_datasets.sh
