@@ -12,7 +12,7 @@
 ## Setup
 Make sure your machine is set up with the assignment dependencies. 
 
-**[Option 2] Manual install, virtual environment:**
+**Install virtual environment:**
 If you do not want to use Anaconda and want to go with a more manual and risky
 installation route you will likely want to create a
 [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
