@@ -1,4 +1,4 @@
-# cnn-cifar10 #
+# Image Classification #
 Implementation and investigation of Fully Connected and Convolutional neural networks on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 * [Fully Connected Neural Network](https://github.com/alexvlis/cnn-cifar10/blob/master/FullyConnectedNets.ipynb)
